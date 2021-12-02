@@ -1,0 +1,16 @@
+D:\.NET\PRACTICE\Movie2\Movie2\bin\Debug\net5.0\Movie2.exe
+D:\.NET\PRACTICE\Movie2\Movie2\bin\Debug\net5.0\Movie2.deps.json
+D:\.NET\PRACTICE\Movie2\Movie2\bin\Debug\net5.0\Movie2.runtimeconfig.json
+D:\.NET\PRACTICE\Movie2\Movie2\bin\Debug\net5.0\Movie2.runtimeconfig.dev.json
+D:\.NET\PRACTICE\Movie2\Movie2\bin\Debug\net5.0\Movie2.dll
+D:\.NET\PRACTICE\Movie2\Movie2\bin\Debug\net5.0\ref\Movie2.dll
+D:\.NET\PRACTICE\Movie2\Movie2\bin\Debug\net5.0\Movie2.pdb
+D:\.NET\PRACTICE\Movie2\Movie2\obj\Debug\net5.0\Movie2.csprojAssemblyReference.cache
+D:\.NET\PRACTICE\Movie2\Movie2\obj\Debug\net5.0\Movie2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\PRACTICE\Movie2\Movie2\obj\Debug\net5.0\Movie2.AssemblyInfoInputs.cache
+D:\.NET\PRACTICE\Movie2\Movie2\obj\Debug\net5.0\Movie2.AssemblyInfo.cs
+D:\.NET\PRACTICE\Movie2\Movie2\obj\Debug\net5.0\Movie2.csproj.CoreCompileInputs.cache
+D:\.NET\PRACTICE\Movie2\Movie2\obj\Debug\net5.0\Movie2.dll
+D:\.NET\PRACTICE\Movie2\Movie2\obj\Debug\net5.0\ref\Movie2.dll
+D:\.NET\PRACTICE\Movie2\Movie2\obj\Debug\net5.0\Movie2.pdb
+D:\.NET\PRACTICE\Movie2\Movie2\obj\Debug\net5.0\Movie2.genruntimeconfig.cache
