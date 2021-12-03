@@ -8,7 +8,7 @@ The objective was to understand the concept of C# language and how implement it 
 
 We put our best efforts to Avoid crashing the application, because there is usually something shown to the user as to what went wrong like it sometimes contains stack trace. This kind of information enables a hacker to gain valuable knowledge into what kind of backend systems are being used. It is your job to catch any form of exceptions thrown and handle them in a proper way
 
-The console application  was created using C# having Admin module and Guest module
+The console application  was created using C# having Admin module and Guest module :
 
 The Admin can login using predefined password up to 5 attempts
 
